@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://estudiomuss.com.ar/index.html</loc>
+    <lastmod>2018-04-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://estudiomuss.com.ar/images/dsc_0052%20copy.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://estudiomuss.com.ar/images/dsc_0102%20copy.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://estudiomuss.com.ar/images/dsc_0048%20copy.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://estudiomuss.com.ar/images/logo%20blanco.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://estudiomuss.com.ar/images/guido.jpg</image:loc>
+      <image:caption>Guido Torres Diseñador Industrial en MUSS</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://estudiomuss.com.ar/images/joaco.jpg</image:loc>
+      <image:caption>Joaquín de Sant' Ana Diseñador Industrial en MUSS</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://estudiomuss.com.ar/images/asset-2b.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://estudiomuss.com.ar/images/asset-3b.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://estudiomuss.com.ar/images/asset-1b.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://estudiomuss.com.ar/mesa-alvaro.html</loc>
+    <lastmod>2018-04-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://estudiomuss.com.ar/mesa-fjord.html</loc>
+    <lastmod>2018-04-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://estudiomuss.com.ar/reloj-norms.html</loc>
+    <lastmod>2018-04-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://estudiomuss.com.ar/assets/jquery.counterup.min.js</loc>
+    <lastmod>2013-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>

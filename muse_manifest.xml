@@ -1,0 +1,168 @@
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="estudiomuss.com.ar" resolutions="1x" timestamp="1523323389493">
+  <folder name="css">
+    <file name="site_global.css" crc="73311052"/>
+    <file name="mesa-fjord.css" crc="12745356" ref="mesa-fjord"/>
+    <file name="index.css" crc="227546154" ref="index"/>
+    <file name="nomq_index.css" crc="531173902" ref="index"/>
+    <file name="reloj-norms.css" crc="12745356" ref="reloj-norms"/>
+    <file name="mesa-alvaro.css" crc="12745356" ref="mesa-alvaro"/>
+  </folder>
+  <folder name="assets">
+    <file name="jquery.counterup.min.js" crc="3831897152" seo="true" mt="1385430786000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:mesa-alvaro:mesa-fjord:reloj-norms"/>
+    <file name="museutils.js" crc="46400467" ref="index:mesa-alvaro:mesa-fjord:reloj-norms"/>
+    <file name="whatinput.js" crc="86476730" ref="index:mesa-alvaro:mesa-fjord:reloj-norms"/>
+    <file name="museconfig.js" crc="436936948" ref="index:mesa-alvaro:mesa-fjord:reloj-norms"/>
+    <file name="webpro.js" crc="4152390327" ref="index"/>
+    <file name="musewpslideshow.js" crc="380562115" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3986278607" ref="index"/>
+    <file name="touchswipe.js" crc="4228958816" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3936200140" ref="index"/>
+    <file name="jquery.watch.js" crc="4178585335" ref="index:mesa-alvaro:mesa-fjord:reloj-norms"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="532123423" ref="index"/>
+    <file name="musewpdisclosure.js" crc="204784597" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="410690402" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:mesa-alvaro:mesa-fjord:reloj-norms"/>
+    <file name="jquery.museresponsive.js" crc="52098982" ref="index"/>
+    <file name="require.js" crc="85721165" ref="index:mesa-alvaro:mesa-fjord:reloj-norms"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="500063295" ref="index"/>
+    <file name="dsc_0052 copy.jpg" crc="3989009813" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="dsc_0102 copy.jpg" crc="268172209" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_0048 copy.jpg" crc="394433884" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flecha-izquierda.png" crc="3975364059" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flecha-derecha.png" crc="152649081" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="logo blanco.png" crc="4108408676" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="quienes-somos.png" crc="336959440" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="que-hacemos.png" crc="482448688" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lapiz mecanico.svg" crc="394900175" ref="index"/>
+    <file name="lapiz mecanico_poster_u28558.png" crc="364378103" ref="index"/>
+    <file name="di.svg" crc="4058542231" ref="index"/>
+    <file name="di_poster_u28550.png" crc="4273496535" ref="index"/>
+    <file name="consultoria.svg" crc="3876799544" ref="index"/>
+    <file name="consultoria_poster_u28542.png" crc="527136770" ref="index"/>
+    <file name="dsc_0027 copy 2.jpg" crc="367827678" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="guido.jpg" crc="463074477" seo="true" ref="index">
+      <caption webpage="index" alt="Guido Torres Diseñador Industrial en MUSS"/>
+      <caption webpage="index" alt="Guido Torres Diseñador Industrial en MUSS"/>
+      <caption webpage="index" alt="Guido Torres Diseñador Industrial en MUSS"/>
+      <caption webpage="index" alt="Guido Torres Diseñador Industrial en MUSS"/>
+      <caption webpage="index" alt="Guido Torres Diseñador Industrial en MUSS"/>
+    </file>
+    <file name="joaco.jpg" crc="82775189" seo="true" ref="index">
+      <caption webpage="index" alt="Joaquín de Sant' Ana Diseñador Industrial en MUSS"/>
+      <caption webpage="index" alt="Joaquín de Sant' Ana Diseñador Industrial en MUSS"/>
+      <caption webpage="index" alt="Joaquín de Sant' Ana Diseñador Industrial en MUSS"/>
+      <caption webpage="index" alt="Joaquín de Sant' Ana Diseñador Industrial en MUSS"/>
+      <caption webpage="index" alt="Joaquín de Sant' Ana Diseñador Industrial en MUSS"/>
+    </file>
+    <file name="u30000-4.png" crc="4174656471" ref="index"/>
+    <file name="asset-2b.svg" crc="3926745848" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 2b_poster_.png" crc="220126826" ref="index"/>
+    <file name="asset-3b.svg" crc="495820761" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 3b_poster_.png" crc="4215133252" ref="index"/>
+    <file name="asset-1b.svg" crc="4052092844" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 1b_poster_.png" crc="494638334" ref="index"/>
+    <file name="asset 1c.svg" crc="4225326476" ref="index"/>
+    <file name="asset 1c_poster_u29298.png" crc="82481991" ref="index"/>
+    <file name="u30000-42.png" crc="3863468237" ref="index"/>
+    <file name="u30000-43.png" crc="3955293184" ref="index"/>
+    <file name="menu.png" crc="3935061649" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cerrado.png" crc="473227605" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u30000-44.png" crc="4261716533" ref="index"/>
+    <file name="u30000-45.png" crc="411244635" ref="index"/>
+  </folder>
+  <file name="index.html" crc="339970822" seo="true" mt="1523323376513" redirect="true"/>
+  <file name="mesa-alvaro.html" crc="350794113" seo="true" mt="1523037412626" redirect="false"/>
+  <file name="mesa-fjord.html" crc="432224975" seo="true" mt="1523119026637" redirect="false"/>
+  <file name="reloj-norms.html" crc="266199079" seo="true" mt="1523119033566" redirect="false"/>
+</manifest>
