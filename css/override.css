@@ -19,10 +19,15 @@ section {
   padding: 6rem;
 }
 
-.redes {
-margin-left: -100%;
+div.redes{
+margin-right: auto;
+}
+
+p.sr-contact{
+  margin-left: -100%;
 margin-right: -100%;
 text-align: center;
+
 }
 
 section.descripcion{
