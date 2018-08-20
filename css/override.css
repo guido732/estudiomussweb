@@ -1,3 +1,32 @@
+header.masthead p {
+  font-weight: 300;
+}
+
+.h2, .h3, .h4, .h5, .h6, h2, h3, h4, h5, h6  {
+  font-weight: 400;
+}
+
+.mb-4, .my-4 {
+  margin-top: 0.3rem!important;
+}
+
+h1 {
+  font-weight: 300;
+}
+
+h4 {
+  font-size: 2rem;
+  font-weight: 300;
+}
+
+body{
+  font-weight: 300;
+}
+
+b, strong {
+  font-weight: 700;
+}
+
 .subheader {
   font-size: 1rem;
 }
@@ -74,6 +103,10 @@ section.proyecto-thumbs,
       bottom: 50px;
       z-index: 1 ;
       display: none;
+}
+
+.fa-circle{
+  color: #FFFFFF;
 }
 
 .logo{
