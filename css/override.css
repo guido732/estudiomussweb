@@ -1,3 +1,71 @@
+.carousel-fullscreen .carousel-inner .item {
+    height: 100vh;
+    min-height: 600px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* carousel fullscreen - vertically centered caption*/
+
+.carousel-fullscreen .carousel-caption {
+    top: 50%;
+    bottom: auto;
+    -webkit-transform: translate(0, -50%);
+    -ms-transform: translate(0, -50%);
+    transform: translate(0, -50%);
+}
+
+.carousel-fade .carousel-inner .item {
+    -webkit-transition-property: opacity;
+    transition-property: opacity;
+}
+.carousel-fade .carousel-inner .item,
+.carousel-fade .carousel-inner .active.left,
+.carousel-fade .carousel-inner .active.right {
+    opacity: 0;
+}
+.carousel-fade .carousel-inner .active,
+.carousel-fade .carousel-inner .next.left,
+.carousel-fade .carousel-inner .prev.right {
+    opacity: 1;
+}
+.carousel-fade .carousel-inner .next,
+.carousel-fade .carousel-inner .prev,
+.carousel-fade .carousel-inner .active.left,
+.carousel-fade .carousel-inner .active.right {
+    left: 0;
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+}
+.carousel-fade .carousel-control {
+    z-index: 2;
+}
+
+.overlay {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: #000;
+    opacity: 0.3;
+    transition: all 0.2s ease-out;
+}
+
+/* HASTA ACA  */
+
+header.masthead {
+  background-position: center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height:100vh;
+}
+
+html,body{height:100%;}
+.carousel,.item,.active{height:100%;}
+.carousel-inner{height:100%;}
+
 header.masthead p {
   font-weight: 300;
 }
@@ -32,7 +100,7 @@ b, strong {
 }
 
 .selling{
-  margin-bottom: 50px;
+  margin-bottom: 15px;
 }
 
 .negro {
@@ -53,7 +121,7 @@ margin-right: auto;
 }
 
 p.sr-contact{
-  margin-left: -100%;
+margin-left: -100%;
 margin-right: -100%;
 text-align: center;
 
@@ -89,7 +157,6 @@ section.proyecto-thumbs,
   align-items: center;
   margin: auto;
   padding: 5px;
-  min-width:
 }
 
 .elemento img{
@@ -137,88 +204,4 @@ section.proyecto-thumbs,
   .thumb3{
     width: 33.3%;
   }
-}
-
-header.masthead {
-  padding-top: 10rem;
-  padding-bottom: 10rem;
-  background-image: url("../img/header.jpg");
-  background-position: center center;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  height:100vh;
-}
-
-header.alvaro {
-  padding-top: 10rem;
-  padding-bottom: 10rem;
-  background-image: url("../img/alvaro/cover.jpg");
-  background-position: center center;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  height:100vh;
-}
-
-header.boxset {
-  padding-top: 10rem;
-  padding-bottom: 10rem;
-  background-image: url("../img/boxset/cover.jpg");
-  background-position: center center;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  height:100vh;
-}
-
-header.hexa {
-  padding-top: 10rem;
-  padding-bottom: 10rem;
-  background-image: url("../img/hexa/cover.jpg");
-  background-position: center center;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  height:100vh;
-}
-
-header.saga {
-  padding-top: 10rem;
-  padding-bottom: 10rem;
-  background-image: url("../img/saga/cover.jpg");
-  background-position: center center;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  height:100vh;
-}
-
-header.vaina {
-  padding-top: 10rem;
-  padding-bottom: 10rem;
-  background-image: url("../img/vaina/cover.jpg");
-  background-position: center center;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  height:100vh;
-}
-
-header.mate {
-  padding-top: 10rem;
-  padding-bottom: 10rem;
-  background-image: url("../img/mate/cover2.jpg");
-  background-position: center center;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  height:100vh;
 }
