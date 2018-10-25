@@ -16,14 +16,14 @@ img.sello{
   border-style: inset;
   border: 0px;
   padding: 0px;
-  z-index: 3;
+  z-index: 1;
 }
 
 .noshadow {
   border-style: inset;
   border: 0px;
   padding: 0px;
-  z-index: 1;
+  z-index: 0;
 }
 
 body, header {
