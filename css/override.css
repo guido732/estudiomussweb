@@ -171,11 +171,11 @@ section.proyecto-thumbs,
 }
 
 .gototop{
-      position: fixed;
-      right: 20px;
-      bottom: 50px;
-      z-index: 3 ;
-      display: none;
+  position: fixed;
+  right: 20px;
+  bottom: 50px;
+  z-index: 3 ;
+  display: none;
 }
 
 .fa-circle{
